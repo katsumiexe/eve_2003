@@ -669,7 +669,8 @@
 
 
 .amida{
- text-align:center;
+	text-align:center;
+	position:relative;
 }
 
 .amida_box{
