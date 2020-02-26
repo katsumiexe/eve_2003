@@ -823,13 +823,13 @@
 }
 
 .amida_lose{
-	position:relative;
-	display:none;
+	position		:relative;
+	display			:none;
 	width			:84vw;
 	background		:linear-gradient(#c0c0ff,#a0a0ff);
 	color			:#fafafa;
 	height			:12vw;
-	margin:2vw auto;
+	margin			:2vw auto;
 }
 
 
