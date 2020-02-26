@@ -350,7 +350,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -377,8 +377,8 @@ function Res(a1,a2) {
 		$('#b_1_5').delay(Tm).animate({'height':'12vw'},Ad);
 		Tm+=Ad;
 		Tm+=Ad;
-		$('.amida_lose').delay(Tm).css('display','inline-block');
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -408,7 +408,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
