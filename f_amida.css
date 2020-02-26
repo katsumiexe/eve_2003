@@ -248,15 +248,15 @@
 .box_2_ng{
 	display		:inline-block;
 	margin		:auto;
-	height:14vw;
-	line-height:7vw;
+	height		:14vw;
+	line-height	:7vw;
 	width		:90vw;
 	border		:0.5vw solid #f0f0f0;
-	background:linear-gradient(#cccccc,#999999);
-	font-size:4vw;
-	color:#fafafa;
-	font-weight:700;
-	text-shadow:1px 1px 0px #303030;
+	background	:linear-gradient(#cccccc,#999999);
+	font-size	:4vw;
+	color		:#fafafa;
+	font-weight	:700;
+	text-shadow	:1px 1px 0px #303030;
 }
 
 
@@ -837,12 +837,22 @@
 	display			:block;
 	width			:84vw;
 	background		:linear-gradient(#eeeeee,#cccccc);
-	color			:#909090;
-	height			:10vw;
+	color			:#fafafa;
+	text-shadow:1px 1px 0px #606060;
+	height			:8vw;
+	line-height		:8vw;
 	margin			:3vw auto;
-	text-decoration:none;
+	text-decoration	:none;
 }
 
+.amida_send{
+	width:70vw;
+	background:linear-gradient(#00a000,#008000);
+	height:7vw;
+	line-height:7vw;
+	color:#fafafa;
+	font-weight:600;	
+}
 
 .lose_1{
 	display			:inline-block;
