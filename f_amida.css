@@ -2,6 +2,21 @@
 	margin:0 auto;
 	text-align:center;
 }
+
+.box_00{
+	display		:block;
+	font-size	:5vw;
+	margin		:3vw auto;
+	color		:#0000d0;
+	line-height	:8vw;
+	padding		:2vw;
+	text-align	:left;
+	border		:1vw solid #0000d0;
+	width		:85vw;
+}
+
+
+
 .box_1_4{
 	display		:block;
 	font-size	:6vw;
@@ -838,11 +853,12 @@
 	width			:84vw;
 	background		:linear-gradient(#eeeeee,#cccccc);
 	color			:#fafafa;
-	text-shadow:1px 1px 0px #606060;
+	text-shadow		:1px 1px 0px #606060;
 	height			:8vw;
 	line-height		:8vw;
 	margin			:3vw auto;
 	text-decoration	:none;
+	font-weight		:600;
 }
 
 .amida_send{
