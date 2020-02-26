@@ -675,7 +675,7 @@
 
 .amida_box{
 	display		:inline-block;
-	position	:absolute;
+	position	:relative;
 	top			:2vw;
 	left		:0;
 	right		:0;
