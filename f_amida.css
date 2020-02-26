@@ -731,6 +731,7 @@
 	cursor		:pointer;	
 	border		:1vw solid #fafafa;
 	text-align	:center;
+	font-weight	:600;
 }
 
 .goal_1{
@@ -773,7 +774,7 @@
 #r1{
 	top:18vw;
 	left:24vw;;
-	background:linear-gradient(#ffe0f0,#ffc0d0);
+	background:linear-gradient(#ffd0e0,#ffa0b0);
 }
 
 #r2{
