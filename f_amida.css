@@ -217,16 +217,17 @@
 .box_2_ok{
 	display		:inline-block;
 	margin		:auto;
-	height:12vw;
-	line-height:12vw;
+	height		:12vw;
+	line-height	:12vw;
 	width		:90vw;
 	border		:0.5vw solid #f0f0f0;
-	background:linear-gradient(#d03030,#a00000);
-	font-size:5vw;
-	color:#fafafa;
-	font-weight:700;
-	text-shadow:1px 1px 0px #303030;
-	text-align:center
+	background	:linear-gradient(#d03030,#a00000);
+	font-size	:5vw;
+	color		:#fafafa;
+	font-weight	:700;
+	text-shadow	:1px 1px 0px #303030;
+	text-align	:center
+	cursor		:pointer;
 }
 
 .box_2_get{
