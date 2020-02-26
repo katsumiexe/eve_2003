@@ -680,7 +680,7 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	background	:#fafafa;
+	background	:#f0f0ff;
 	width		:84vw;
 	height		:115vw;	
 }
@@ -767,25 +767,25 @@
 #r0{
 	top:18vw;
 	left:4vw;;
-	background:#903090;
+	background:linear-gradient(#b060b0,#903090);
 }
 
 #r1{
 	top:18vw;
 	left:24vw;;
-	background:#ffa0d0;
+	background:linear-gradient(#ffe0f0,#ffc0d0);
 }
 
 #r2{
 	top:18vw;
 	left:44vw;;
-	background:#e0f000;
+	background:linear-gradient(#d0a000,#b08000);
 }
 
 #r3{
 	top:18vw;
 	left:63vw;;
-	background:#9090e0;
+	background:linear-gradient(#9090e0,#aaaaff);
 }
 
 
