@@ -834,12 +834,14 @@
 
 
 .amida_back{
-	position:relative;
+	position		:relative;
+	display			:block;
 	width			:84vw;
 	background		:linear-gradient(#eeeeee,#cccccc);
 	color			:#909090;
 	height			:10vw;
 	margin			:3vw auto;
+	text-decoration:none;
 }
 
 
