@@ -669,14 +669,7 @@
 
 
 .amida{
-	display		:none;
-	position	:fixed;
-	top			:-5vh;
-	left		:-5vw;
-	width		:110vw;
-	height		:110vh;	
-	z-index		:100000;
-	background:rgba(30,30,30,0.7);
+ text-align:center;
 }
 
 .amida_box{
