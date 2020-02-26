@@ -683,6 +683,8 @@
 	background	:#f0f0ff;
 	width		:84vw;
 	height		:115vw;	
+//	box-shadow:0.5vw 0.5vw 0.5vw rgba(60,60,60,0.8);
+	border:0.5vw solid #6090ff;
 }
 
 .amida_title{
