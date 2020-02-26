@@ -52,7 +52,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -77,7 +77,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -105,7 +105,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -158,7 +158,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -184,7 +184,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -212,7 +212,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -238,7 +238,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -264,7 +264,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
@@ -318,7 +318,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
-		$('.amida_back').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).css('display','inline-block');
 	    return;
 	}
 
