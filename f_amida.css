@@ -854,3 +854,30 @@
 	font-size		:3.6vw;
 	
 }
+
+
+
+.td_r{
+	padding:0.5vw;
+	text-align:left;
+	font-size:3.5vw;
+	width:16vw;
+}
+
+.td_l{
+	padding:0.5vw;
+	text-align:left;
+	font-size:3.5vw;
+}
+
+.td_i{
+	padding:0.5vw;
+	font-size:4.5vw;
+	width:70vw;
+}
+.td_i{
+	padding:0.5vw;
+	font-size:4.5vw;
+	width:40vw;
+}
+
