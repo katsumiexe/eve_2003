@@ -52,6 +52,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -76,6 +77,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -103,6 +105,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -155,6 +158,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -180,6 +184,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -207,6 +212,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -232,6 +238,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -257,6 +264,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -310,6 +318,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -341,6 +350,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -368,6 +378,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -397,6 +408,7 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		Tm+=Ad;
 		$('.amida_lose').delay(Tm).fadeIn(10);
+		$('.amida_back').delay(Tm).fadeIn(10);
 	    return;
 	}
 
@@ -425,6 +437,4 @@ function Res(a1,a2) {
 		$('.amida_win').delay(Tm).fadeIn(10);
 	    return;
 	}
-
-
 }

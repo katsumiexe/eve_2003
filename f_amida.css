@@ -7,7 +7,7 @@
 	display		:block;
 	font-size	:5vw;
 	margin		:3vw auto;
-	color		:#0000d0;
+	color		:#303030;
 	line-height	:8vw;
 	padding		:2vw;
 	text-align	:left;
@@ -225,8 +225,6 @@
 	margin		:auto;
 	width		:28vw;
 	height		:28vw;
-	border		:0.5vw solid #f0f0f0;
-	padding		:1.5vw;
 }
 
 .box_2_ok{
@@ -849,7 +847,7 @@
 
 .amida_back{
 	position		:relative;
-	display			:block;
+	display			:none;
 	width			:84vw;
 	background		:linear-gradient(#eeeeee,#cccccc);
 	color			:#fafafa;
