@@ -826,11 +826,22 @@
 	position:relative;
 	display:none;
 	width			:84vw;
-	background		:linear-gradient(#c0c0c0,#909090);
+	background		:linear-gradient(#c0c0ff,#a0a0ff);
 	color			:#fafafa;
 	height			:12vw;
 	margin:2vw auto;
 }
+
+
+.amida_back{
+	position:relative;
+	width			:84vw;
+	background		:linear-gradient(#eeeeee,#cccccc);
+	color			:#909090;
+	height			:10vw;
+	margin			:3vw auto;
+}
+
 
 .lose_1{
 	display			:inline-block;
