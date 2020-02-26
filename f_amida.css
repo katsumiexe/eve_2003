@@ -593,7 +593,7 @@
 	color		:#fafafa;
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(60,60,60,0.5);
 	background	:#ff0000;
-
+	border-radius:50%;
 }
 
 
@@ -865,10 +865,7 @@
 	right			:0;
 	margin			:auto;
 	font-size		:3.6vw;
-	
 }
-
-
 
 .td_r{
 	padding:0.5vw;
