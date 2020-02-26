@@ -15,11 +15,27 @@ if($wn== 1){
 	}
 }
 
-//include_once("https://katsumiexe.github.io/wait/amida_data{$set}.php");
-include_once("./amida_data{$set}.php");
+$tmp="https://katsumiexe.github.io/eve_2003/amida_data{$set}.csv";
+$C=0;
+$fp=fopen($tmp,"r");
+if($fp){
+	while(!feof($fp)){
+		$fp0=fgets($fp);
+		$fp1=explode(",", $fp0);
+		if($fp1[1]){
+			$dat_ami[$c][0]=$fp1[0];
+			$dat_ami[$c][1]=$fp1[1];
+			$dat_ami[$c][2]=$fp1[2];
+			$dat_ami[$c][3]=$fp1[3];
+			$c++;
+		}
+	}
+	fclose($fp);
+}
+
+
 
 $list["set"]=$set;
-
 for($s=0;$s<6;$s++){
 	for($n=0;$n<3;$n++){
 		$top	=$s*12;
