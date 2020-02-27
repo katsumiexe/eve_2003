@@ -696,12 +696,13 @@
 
 
 .amida_win{
-	position:relative;
-	display:none;
-	width			:504px;
+	position		:relative;
+	display			:none;
+	width			:520px;
 	background		:#fafafa;
 	color			:#606060;
-	margin:12px auto;
+	margin:20px auto;
+	padding:10px;
 }
 
 .amida_lose{
