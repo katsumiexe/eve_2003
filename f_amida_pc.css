@@ -569,14 +569,18 @@
 
 
 .title1{
+	display		:inline-block;
 	color		:#fafafa;
 	font-weight	:600;
-	font-size	:31.2px;
+	font-size	:30px;
 }
 
+
+
 .title2{
+	display		:inline-block;
 	color		:#fafafa;
-	font-size	:31.2px;
+	font-size	:24px;
 }
 
 
