@@ -67,17 +67,17 @@
 }
 
 .box_1_2{
-	position: absolute;
-	display	:inline-block;
-	top:0;
-	bottom:0;
-	left:10px;
-	margin:auto;
-	width	:240px;
-	height	:66px;
-	line-height:33px;
-	font-size:16px;
-	color:#0000d0;
+	position	:absolute;
+	display		:inline-block;
+	top			:10px;
+	bottom		:0;
+	left		:50px;
+	margin		:auto;
+	width		:200px;
+	height		:60px;
+	line-height	:22px;
+	font-size	:16px;
+	color		:#0000d0;
 	text-align:left;
 }
 
