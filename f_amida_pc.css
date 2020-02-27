@@ -142,6 +142,7 @@
 	height		:492px;
 	border		:3px solid #000080;
 	margin		:10px;
+	background:#fafafa;
 }	
 
 .box_0_1{
@@ -167,10 +168,10 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:400px;
+	width		:410px;
 	height		:200px;
 	border		:3px solid #f0f0f0;
-	padding		:9px;
+	padding		:8px;
 	font-size	:16px;
 	line-height	:24px;
 	background	:#fafafa;
@@ -182,11 +183,12 @@
 .box_2{
 	display		:inline-flex;
 	position	:relative;
-	flex-basis	:440px;
-	width		:440px;
+	flex-basis	:450px;
+	width		:450px;
 	height		:492px;
 	border		:3px solid #000080;
-	margin		:6px auto;
+	margin		:10px;
+	background:#fafafa;
 }	
 
 .box_2_1{
