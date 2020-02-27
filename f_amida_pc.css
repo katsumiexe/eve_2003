@@ -129,11 +129,16 @@
 	text-shadow:2px 2px 0px #909000;
 }
 
+.box_flex{
+	display		:flex;
+	width		:810px;
+	height		:500px;
+}
 .box_0{
 	display		:inline-flex;
 	position	:relative;
-	flex-basis	:450px;
-	width		:450px;
+	flex-basis	:400px;
+	width		:400px;
 	height		:492px;
 	border		:3px solid #000080;
 	margin		:6px auto;
@@ -177,8 +182,8 @@
 .box_2{
 	display		:inline-flex;
 	position	:relative;
-	flex-basis	:450px;
-	width		:450px;
+	flex-basis	:400px;
+	width		:400px;
 	height		:492px;
 	border		:3px solid #000080;
 	margin		:6px auto;
