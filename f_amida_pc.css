@@ -131,14 +131,14 @@
 
 .box_flex{
 	display		:flex;
-	width		:810px;
+	width		:890px;
 	height		:500px;
 }
 .box_0{
 	display		:inline-flex;
 	position	:relative;
-	flex-basis	:400px;
-	width		:400px;
+	flex-basis	:440px;
+	width		:440px;
 	height		:492px;
 	border		:3px solid #000080;
 	margin		:6px auto;
@@ -151,7 +151,7 @@
 	left		:0;	
 	right		:0;	
 	margin		:auto;
-	width		:537px;
+	width		:438px;
 	height		:48px;
 	line-height	:48px;
 	background	:linear-gradient(#0000e0,#000080);
@@ -167,12 +167,12 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:516px;
-	height		:216px;
+	width		:430px;
+	height		:200px;
 	border		:3px solid #f0f0f0;
 	padding		:9px;
-	font-size	:19.2px;
-	line-height	:25.2px;
+	font-size	:19px;
+	line-height	:25px;
 	background	:#fafafa;
 	text-align	:left;
 }
@@ -182,8 +182,8 @@
 .box_2{
 	display		:inline-flex;
 	position	:relative;
-	flex-basis	:400px;
-	width		:400px;
+	flex-basis	:440px;
+	width		:440px;
 	height		:492px;
 	border		:3px solid #000080;
 	margin		:6px auto;
@@ -196,7 +196,7 @@
 	left		:0;	
 	right		:0;	
 	margin		:auto;
-	width		:537px;
+	width		:430px;
 	height		:48px;
 	line-height	:48px;
 	background	:linear-gradient(#0000e0,#000080);
@@ -212,12 +212,12 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:516px;
+	width		:430px;
 	height		:216px;
 	border		:3px solid #f0f0f0;
 	padding		:9px;
-	font-size	:19.2px;
-	line-height	:25.2px;
+	font-size	:19px;
+	line-height	:25px;
 	background	:#fafafa;
 	text-align	:left;
 }
