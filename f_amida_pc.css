@@ -12,7 +12,7 @@
 	padding		:12px;
 	text-align	:left;
 	border		:1px solid #0000d0;
-	width		:516px;
+	width		:440px;
 }
 
 .box_1_4{
@@ -344,14 +344,14 @@
 .list_0{
 	position	:relative;
 	display		:inline-block;
-	width		:540px;
-	height		:96px;
+	width		:400px;
+	height		:80px;
 	border		:3px solid #800000;
 	background	:#fafafa;
 }
 .list_0_0{
 	display		:inline-block;
-	width		:540px;
+	width		:400px;
 	height		:42px;
 	line-height	:42px;
 	border		:3px solid #800000;
@@ -367,10 +367,10 @@
 	position	:absolute;
 	top			:0;
 	bottom		:0;
-	left		:6px;
+	left		:4px;
 	margin		:auto;
-	width		:84px;
-	height		:84px;
+	width		:70px;
+	height		:70px;
 }
 
 .list_0_1{
@@ -380,7 +380,7 @@
 	left		:96px;
 	width		:288px;
 	height		:36px;
-	font-size	:21px;
+	font-size	:18px;
 	color		:#0000d0;
 	text-align:left;
 }
@@ -388,8 +388,8 @@
 	display		:inline-block;
 	position	:absolute;
 	bottom		:3px;
-	left		:96px;
-	width		:282px;
+	left		:80px;
+	width		:270px;
 	height		:54px;
 	line-height	:66px;
 	font-size	:30px;
@@ -405,9 +405,9 @@
 	bottom		:0;
 	right		:1px;
 	margin		:auto;
-	width		:144px;
-	height		:144px;
-	line-height	:144px;
+	width		:140px;
+	height		:70px;
+	line-height	:70px;
 	text-align	:center;
 
 	color		:#fafafa;
