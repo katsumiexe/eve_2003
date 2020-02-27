@@ -475,12 +475,12 @@
 	z-index:1;
 }
 .a_line_end{
-	border-right:1px solid #909090;
+	border-right:6px solid #909090;
 	z-index:1;
 }
 
 .a_line_on{
-	border-bottom:1px solid #909090;
+	border-bottom:6px solid #909090;
 	z-index:1;
 }
 
