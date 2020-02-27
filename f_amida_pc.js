@@ -2,11 +2,11 @@ function Res(a1,a2) {
 	if(a1==0 && a2==0){
 		$('#b_0_0').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_0').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_0').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_1').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_1').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_1').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -29,11 +29,11 @@ function Res(a1,a2) {
 	if(a1==0 && a2==1){
 		$('#b_0_0').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_0').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_0').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_1').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_1').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_1').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -59,13 +59,13 @@ function Res(a1,a2) {
 	if(a1==0 && a2==2){
 		$('#b_0_0').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_0').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_0').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_1').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
 		$('#b_1_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_2').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_2').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -84,7 +84,7 @@ function Res(a1,a2) {
 	if(a1==0 && a2==3){
 		$('#b_0_0').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_0').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_0').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_1').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -95,11 +95,11 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		$('#b_0_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_3').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_3').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_4').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_4').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_4').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_5').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -119,7 +119,7 @@ function Res(a1,a2) {
 
 		$('#b_0_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_2').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_2').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -148,11 +148,11 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		$('#b_0_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_3').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_3').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_4').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_4').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_4').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_5').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -174,11 +174,11 @@ function Res(a1,a2) {
 		Tm+=Ad;
 		$('#b_0_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_0_3').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_3').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_4').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_4').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_4').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_5').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -196,11 +196,11 @@ function Res(a1,a2) {
 		$('#b_0_1').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
 
-		$('#c_0_1').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_0_1').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_1_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
-		$('#c_1_2').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_2').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 		$('#b_2_3').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
@@ -336,7 +336,7 @@ function Res(a1,a2) {
 		$('#b_1_2').delay(Tm).animate({'height':'60px'},Ad);
 		Tm+=Ad;
 
-		$('#c_1_2').delay(Tm).animate({'width':'110px'},Ad);
+		$('#c_1_2').delay(Tm).animate({'width':'120px'},Ad);
 		Tm+=Ad;
 
 		$('#b_2_3').delay(Tm).animate({'height':'60px'},Ad);
