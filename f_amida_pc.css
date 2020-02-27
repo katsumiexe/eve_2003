@@ -370,8 +370,8 @@
 .list_0_1{
 	display		:inline-block;
 	position	:absolute;
-	top			:3px;
-	left		:96px;
+	top			:5px;
+	left		:80px;
 	width		:288px;
 	height		:36px;
 	font-size	:18px;
@@ -383,10 +383,10 @@
 	position	:absolute;
 	bottom		:3px;
 	left		:80px;
-	width		:270px;
-	height		:54px;
-	line-height	:66px;
-	font-size	:30px;
+	width		:250px;
+	height		:40px;
+	line-height	:40px;
+	font-size	:24px;
 	font-weight	:600;
 	color		:#0000d0;
 	text-align	:left;
@@ -399,13 +399,13 @@
 	bottom		:0;
 	right		:1px;
 	margin		:auto;
-	width		:140px;
-	height		:70px;
-	line-height	:70px;
+	width		:110px;
+	height		:60px;
+	line-height	:60px;
 	text-align	:center;
 
 	color		:#fafafa;
-	font-size	:33px;
+	font-size	:28px;
 	text-shadow	:1px 1px 0px #303030;
 	border-radius:12px;
 	font-weight	:800;
