@@ -702,6 +702,7 @@
 	color			:#fafafa;
 	height			:72px;
 	margin			:12px auto;
+	padding			:5px;
 }
 
 
@@ -731,19 +732,19 @@
 .lose_1{
 	display			:inline-block;
 	position		:absolute;
-	top				:3px;
+	top				:10px;
 	left			:0;
 	right			:0;
 	margin			:auto;
-	font-size		:33px;
+	font-size		:30px;
 	font-weight		:600;
-	
+	text-shadow:1px 1px 0px #0000d0;	
 }
 
 .lose_2{
 	display			:inline-block;
 	position		:absolute;
-	bottom			:3px;
+	bottom			:10px;
 	left			:0;
 	right			:0;
 	margin			:auto;
