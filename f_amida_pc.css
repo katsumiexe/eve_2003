@@ -146,7 +146,7 @@
 	position	:relative;
 	flex-basis	:450px;
 	width		:450px;
-	height		:492px;
+	height		:450px;
 	border		:3px solid #000080;
 	margin		:10px;
 	background:#fafafa;
@@ -176,7 +176,7 @@
 	right		:0;
 	margin		:auto;
 	width		:410px;
-	height		:200px;
+	height		:180px;
 	padding		:6px;
 	font-size	:16px;
 	line-height	:24px;
@@ -184,14 +184,12 @@
 	text-align	:left;	
 }
 
-
-
 .box_2{
 	display		:inline-flex;
 	position	:relative;
 	flex-basis	:450px;
 	width		:450px;
-	height		:492px;
+	height		:450px;
 	border		:3px solid #000080;
 	margin		:10px;
 	background:#fafafa;
@@ -221,14 +219,13 @@
 	right		:0;
 	margin		:auto;
 	width		:410px;
-	height		:200px;
+	height		:180px;
 	padding		:6px;
 	font-size	:16px;
 	line-height	:24px;
 	background	:#fafae0;
 	text-align	:left;	
 }
-
 
 .box_2_3{
 	display		:inline-block;
