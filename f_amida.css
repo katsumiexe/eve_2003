@@ -916,6 +916,7 @@
 
 
 .box_slot{
+	position:relative;
 	margin		:1vw auto;	
 	display		:inline-block;
 	width		:320px;
