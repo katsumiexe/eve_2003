@@ -178,7 +178,7 @@
 	position	:relative;
 	width		:90vw;
 	height		:82vw;
-	border		:0.5vw solid #000080;
+	border		:0.5vw solid #008000;
 	margin		:1vw auto;
 }	
 
@@ -192,7 +192,7 @@
 	width		:89.5vw;
 	height		:8vw;
 	line-height	:8vw;
-	background	:linear-gradient(#0000e0,#000080);
+	background	:linear-gradient(#00e000,#008000);
 	font-size	:4.5vw;
 	color		:#fafafa;
 	font-weight	:600;
