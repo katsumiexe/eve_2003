@@ -914,3 +914,21 @@
 	height:6vw;
 }
 
+
+.box_3{
+	margin:1vw auto;	
+	display:inline-block;
+	width:320px;
+	height:140px;
+}
+
+.box_3_in{
+	display:inline-block;
+	width:300px;
+	height:120px
+	overflow:hidden;
+	margin:10px;
+}
+
+
+
