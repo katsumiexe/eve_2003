@@ -561,7 +561,7 @@
 .prf3,.room{
 	display			:inline-block;
 	color			:#fafafa;
-	font-size		:3vw;
+	font-size		:2.5vw;
 	background		:#c030ff;
 	font-weight		:600;
 	display			:inline-block;
@@ -575,7 +575,7 @@
 	height			:3.5vw;
 	line-height		:3.5vw;
 	color			:#c030ff;
-	font-size		:3.5vw;
+	font-size		:3vw;
 }
 
 .room{
