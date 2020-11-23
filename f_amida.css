@@ -88,6 +88,7 @@
 	top				:5px;
 	right			:5px;
 	display			:inline-block;
+	
 }
 
 .slide_box_name{
@@ -98,11 +99,13 @@
 
 .slide_box_prf{
 	position		:absolute;
-	top				:39vw;
+	top				:38vw;
 	left			:0vw;
 	width			:40vw;
 	height			:16vw;
-	background:#fafafa;
+	background		:#fafafa;
+	text-align		:left;
+	padding:0.5vw;
 }
 
 
