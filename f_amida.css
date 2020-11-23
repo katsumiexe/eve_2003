@@ -33,6 +33,7 @@
 }
 
 .slide_box_ope{
+	position:relative;
 	display		:inline-block;
 	flex-basis	:38vw;
 	width		:38vw;
