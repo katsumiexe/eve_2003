@@ -2,7 +2,7 @@
 	display		:inline-block;
 	position	:relative;
 	width		:98vw;
-	height		:100vw;
+	height		:110vw;
 	background	:#eeeeee;
 	margin		:0 auto;
 }
@@ -17,7 +17,7 @@
 	bottom		:0;
 
 	width		:86vw;
-	height		:100vw;
+	height		:110vw;
 	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:auto;
@@ -27,7 +27,7 @@
 	flex-wrap	:wrap;
 	position	:absolute;
 	width		:400vw;
-	height		:100vw;
+	height		:110vw;
 	top			:0;
 	left		:0;
 }
@@ -130,6 +130,7 @@
 	line-height		:3.5vw;
 	color			:#c030ff;
 	font-size		:2.5vw;
+	margin			:0 0.5vw;
 }
 
 .room{
