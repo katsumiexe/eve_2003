@@ -558,17 +558,31 @@
 	height:70px;
 }
 
-.sen{
-	font-size:12px;
-	background:#906000;
-	font-weight:600;
-	display:inline-block;
-	border-radius:2px;
-	padding:1px 3px;
-	margin:1px;
+.prf3{
+	display			:inline-block;
+	color			:#fafafa;
+	font-size		:3vw;
+	background		:#906000;
+	font-weight		:600;
+	display			:inline-block;
+	border-radius	:0.5vw;
+	height			:4vw;
+	line-height		:4vw;
 }
 
-.dan{
+.prf3_a{
+	display			:inline-block;
+	height			:4vw;
+	line-height		:4vw;
+	color			:#906000;
+	font-size		:3.5vw;
+	background		:#906000;
+}
+
+
+.room{
+	display			:inline-block;
+	color:#fafafa;
 	font-size:12px;
 	background:#30a040;
 	font-weight:600;
@@ -577,6 +591,7 @@
 	padding:1px 3px;
 	margin:1px;
 }
+
 
 .title_1{
 	font-size:17px;
