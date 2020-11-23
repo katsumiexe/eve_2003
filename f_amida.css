@@ -80,6 +80,17 @@
 	height			:38vw;
 }
 
+.slide_box_status{
+	color			:#ffffff;
+	padding			:0px 5px;
+	border-radius	:3px;
+	position		:absolute;
+	top				:5px;
+	right			:5px;
+	display			:inline-block;
+}
+
+
 
 .nxt, .pre{
 	border-color:#000000;
