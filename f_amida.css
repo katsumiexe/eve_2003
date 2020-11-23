@@ -111,6 +111,35 @@
 	font-size		:4vw;
 }
 
+.prf3,.room{
+	display			:inline-block;
+	color			:#fafafa;
+	font-size		:2.5vw;
+	background		:#c030ff;
+	font-weight		:600;
+	display			:inline-block;
+	border-radius	:0.5vw;
+	height			:3.5vw;
+	line-height		:3.5vw;
+	padding			:0 0.5vw;
+}
+
+.prf3_a,.room_a{
+	display			:inline-block;
+	height			:3.5vw;
+	line-height		:3.5vw;
+	color			:#c030ff;
+	font-size		:2.5vw;
+}
+
+.room{
+	background		:#30a040;
+}
+
+.room_a{
+	color		:#30a040;
+}
+
 
 .nxt, .pre{
 	border-color:#000000;
@@ -563,39 +592,6 @@
 	width:85%;
 	height:70px;
 }
-
-.prf3,.room{
-	display			:inline-block;
-	color			:#fafafa;
-	font-size		:2.5vw;
-	background		:#c030ff;
-	font-weight		:600;
-	display			:inline-block;
-	border-radius	:0.5vw;
-	height			:3.5vw;
-	line-height		:3.5vw;
-}
-
-.prf3_a,.room_a{
-	display			:inline-block;
-	height			:3.5vw;
-	line-height		:3.5vw;
-	color			:#c030ff;
-	font-size		:3vw;
-}
-
-.room{
-	background		:#30a040;
-}
-
-.room_a{
-	color		:#30a040;
-}
-
-.status{
-
-}
-
 
 .title_1{
 	font-size:17px;
