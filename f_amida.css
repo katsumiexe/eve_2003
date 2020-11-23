@@ -46,7 +46,7 @@
 	position	:absolute;
 	top			:0;
 	bottom		:0;
-	left		:-4vw;
+	left		:0.5vw;
 	margin		:auto;
 	border-left	:1vw solid #303030;
 	border-top	:1vw solid #303030;
@@ -61,7 +61,7 @@
 	position	:absolute;
 	top			:0;
 	bottom		:0;
-	right		:-4vw;
+	right		:0.5vw;
 	margin		:auto;
 	border-right	:1vw solid #303030;
 	border-bottom	:1vw solid #303030;
