@@ -1,13 +1,26 @@
-.slide_box{
+.slide{
 	display		:inline-block;
 	position	:relative;
-	width		:90vw;
+	width		:100vw;
 	height		:100vw;
-	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:0 auto;
 }
 
+.slide_box{
+	display		:inline-block;
+	position	:absolute;
+	top			:0;
+	left		:0;
+	right		:0;
+	bottom		:0;
+
+	width		:90vw;
+	height		:100vw;
+	overflow	:hidden;
+	background	:#eeeeee;
+	margin		:auto;
+}
 .slide_box_in{
 	display		:inline-flex;
 	flex-wrap	:wrap;
