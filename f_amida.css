@@ -1,7 +1,7 @@
 .slide{
 	display		:inline-block;
 	position	:relative;
-	width		:96vw;
+	width		:98vw;
 	height		:100vw;
 	background	:#eeeeee;
 	margin		:0 auto;
@@ -16,7 +16,7 @@
 	right		:0;
 	bottom		:0;
 
-	width		:80vw;
+	width		:90vw;
 	height		:100vw;
 	overflow	:hidden;
 	background	:#eeeeee;
@@ -35,11 +35,30 @@
 .slide_box_ope{
 	position:relative;
 	display		:inline-block;
-	flex-basis	:38vw;
-	width		:38vw;
+	flex-basis	:42vw;
+	width		:42vw;
 	height		:48vw;
-	margin		:1vw;
+	margin		:0.5vw;
 	background	:#ff0000;
+}
+
+.slide_box_img{
+	position		:absolute;
+	top				:1vw;
+	left			:1vw;
+	width			:40vw;
+	height			:40vw;
+}
+
+.slide_box_prf{
+	position		:absolute;
+	top				:38vw;
+	left			:0vw;
+	width			:42vw;
+	height			:16vw;
+	background		:#fafafa;
+	text-align		:left;
+	padding			:0.5vw;
 }
 
 .slide_box_l{
@@ -72,13 +91,6 @@
 	transform-origin:center;
 }
 
-.slide_box_img{
-	position		:absolute;
-	top				:0;
-	left			:0;
-	width			:38vw;
-	height			:38vw;
-}
 
 .slide_box_status{
 	color			:#ffffff;
@@ -95,17 +107,6 @@
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:4vw;
-}
-
-.slide_box_prf{
-	position		:absolute;
-	top				:38vw;
-	left			:0vw;
-	width			:40vw;
-	height			:16vw;
-	background		:#fafafa;
-	text-align		:left;
-	padding:0.5vw;
 }
 
 
