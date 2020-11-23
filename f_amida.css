@@ -1,3 +1,57 @@
+.slide_box{
+	display		:inline-block;
+	position	:relative;
+	width		:90vw;
+	heignt		:160vw;
+	overflow	:hidden;
+	background	:#eeeeee;
+	margin		:0 auto;
+}
+
+.slide_box_in{
+	display		:inline-flex;
+	flex-wrap	:wrap;
+	position	:absolute;
+	width		:900vw;
+	heignt		:160vw;
+	top			:0;
+	left		:0;
+}
+
+.slide_box_ope{
+	display		:inline-block;
+	width		:43vw;
+	heignt		:80vw;
+	margin		:1vw;
+	background	:#ff0000;
+}
+
+.slide_box_l{
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:-4vw;
+	margin		:auto;
+	border-left	:1vw solid #303030;
+	border-top	:1vw solid #303030;
+	transform	:rotate(45deg);
+	transform-origin:center;
+}
+
+.slide_box_r{
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	right		:-4vw;
+	margin		:auto;
+	border-right	:1vw solid #303030;
+	border-bottom	:1vw solid #303030;
+	transform	:rotate(45deg);
+	transform-origin:center;
+}
+
+
+
 .box{
 	margin:0 auto;
 	text-align:center;
