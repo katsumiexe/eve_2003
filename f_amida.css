@@ -16,7 +16,7 @@
 	right		:0;
 	bottom		:0;
 
-	width		:86vw;
+	width		:90vw;
 	height		:110vw;
 	overflow	:hidden;
 	background	:#eeeeee;
@@ -34,9 +34,9 @@
 .slide_box_ope{
 	position:relative;
 	display		:inline-block;
-	flex-basis	:42vw;
-	width		:42vw;
-	height		:54vw;
+	flex-basis	:44vw;
+	width		:44vw;
+	height		:51vw;
 	margin		:0.5vw;
 	background	:#ff0000;
 }
@@ -44,7 +44,7 @@
 .slide_box_img{
 	position		:absolute;
 	top				:1vw;
-	left			:1vw;
+	left			:2vw;
 	width			:40vw;
 	height			:40vw;
 }
@@ -53,7 +53,7 @@
 	position		:absolute;
 	top				:38vw;
 	left			:0vw;
-	width			:42vw;
+	width			:44vw;
 	height			:16vw;
 	background		:#fafafa;
 	text-align		:left;
