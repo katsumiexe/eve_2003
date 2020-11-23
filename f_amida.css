@@ -57,19 +57,28 @@
 }
 
 .slide_box_r{
-	display		:inline-block;
-	width		:5vw;
-	height		:5vw;
-	position	:absolute;
-	top			:0;
-	bottom		:0;
-	right		:2vw;
-	margin		:auto;
+	display			:inline-block;
+	width			:5vw;
+	height			:5vw;
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	right			:2vw;
+	margin			:auto;
 	border-right	:1vw solid #c0c0c0;
 	border-bottom	:1vw solid #c0c0c0;
-	transform	:rotate(-45deg);
+	transform		:rotate(-45deg);
 	transform-origin:center;
 }
+
+.slide_box_img{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	width			:38vw;
+	height			:38vw;
+}
+
 
 .nxt, .pre{
 	border-color:#000000;
