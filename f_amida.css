@@ -2,10 +2,11 @@
 	display		:inline-block;
 	position	:relative;
 	width		:96vw;
-	height		:105vw;
+	height		:100vw;
 	background	:#eeeeee;
 	margin		:0 auto;
 }
+
 
 .slide_box{
 	display		:inline-block;
@@ -16,7 +17,7 @@
 	bottom		:0;
 
 	width		:80vw;
-	height		:105vw;
+	height		:100vw;
 	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:auto;
@@ -26,7 +27,7 @@
 	flex-wrap	:wrap;
 	position	:absolute;
 	width		:400vw;
-	height		:105vw;
+	height		:100vw;
 	top			:0;
 	left		:0;
 }
@@ -49,8 +50,8 @@
 	bottom		:0;
 	left		:2vw;
 	margin		:auto;
-	border-left	:1vw solid #303030;
-	border-top	:1vw solid #303030;
+	border-left	:1vw solid #c0c0c0;
+	border-top	:1vw solid #c0c0c0;
 	transform	:rotate(-45deg);
 	transform-origin:center;
 }
@@ -64,12 +65,16 @@
 	bottom		:0;
 	right		:2vw;
 	margin		:auto;
-	border-right	:1vw solid #303030;
-	border-bottom	:1vw solid #303030;
+	border-right	:1vw solid #c0c0c0;
+	border-bottom	:1vw solid #c0c0c0;
 	transform	:rotate(-45deg);
 	transform-origin:center;
 }
 
+.nxt, .pre{
+	border-color:#000000;
+
+}
 
 
 .box{
