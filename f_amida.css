@@ -93,8 +93,9 @@
 
 
 .slide_box_status{
-	color			:#ffffff;
-	padding			:0px 5px;
+	display			:inline-block;
+	color			:#fafafa;
+	padding			:3px;
 	border-radius	:3px;
 	position		:absolute;
 	top				:5px;
@@ -104,6 +105,7 @@
 }
 
 .slide_box_name{
+	color:#303030;
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:4vw;
