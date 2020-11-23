@@ -2,7 +2,7 @@
 	display		:inline-block;
 	position	:relative;
 	width		:96vw;
-	height		:100vw;
+	height		:105vw;
 	background	:#eeeeee;
 	margin		:0 auto;
 }
@@ -16,7 +16,7 @@
 	bottom		:0;
 
 	width		:80vw;
-	height		:100vw;
+	height		:105vw;
 	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:auto;
@@ -26,13 +26,14 @@
 	flex-wrap	:wrap;
 	position	:absolute;
 	width		:800vw;
-	height		:100vw;
+	height		:105vw;
 	top			:0;
 	left		:0;
 }
 
 .slide_box_ope{
 	display		:inline-block;
+	flex-basis	:38vw;
 	width		:38vw;
 	height		:48vw;
 	margin		:1vw;
