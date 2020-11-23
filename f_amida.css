@@ -90,6 +90,20 @@
 	display			:inline-block;
 }
 
+.slide_box_name{
+	height			:6vw;
+	line-height		:6vw;
+	font-size		:4vw;
+}
+
+.slide_box_prf{
+	position		:absolute;
+	top				:39vw;
+	left			:0vw;
+	width			:40vw;
+	height			:16vw;
+	background:#fafafa;
+}
 
 
 .nxt, .pre{
