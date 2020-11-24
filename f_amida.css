@@ -2,7 +2,7 @@
 	display		:inline-block;
 	position	:relative;
 	width		:98vw;
-	height		:110vw;
+	height		:102vw;
 	background	:#eeeeee;
 	margin		:0 auto;
 }
@@ -17,7 +17,7 @@
 	bottom		:0;
 
 	width		:90vw;
-	height		:110vw;
+	height		:102vw;
 	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:auto;
@@ -26,7 +26,7 @@
 	display		:inline-flex;
 	flex-wrap	:wrap;
 	position	:absolute;
-	height		:110vw;
+	height		:102vw;
 	top			:0;
 	left		:0;
 }
