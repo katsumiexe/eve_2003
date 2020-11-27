@@ -342,8 +342,6 @@
 	text-align	:left;
 }
 
-
-
 .box_2{
 	display		:inline-block;
 	position	:relative;
@@ -372,17 +370,33 @@
 	line-height	:6vw;
 	background	:#fafafa;
 	text-align	:left;
+	margin:1vw auto 2vw auto;
 }
 
 
 .box_2_3{
 	display		:inline-block;
 	width		:88vw;
-	margin		:0 auto;
+	margin		:0.5vw auto;
 	font-size	:3.2vw;
-	text-align:left;
-	line-height:4.5vw;
+	text-align	:left;
+	line-height	:4.5vw;
 }
+
+.box_ttl{
+	margin:1vw;
+	border-bottom:0.5vw solid #303030;
+	padding-left:1vw;
+	font-size:3.5vw;
+	font-weight:700;
+	width:85vw;
+	display		:inline-block;
+	height:7vw;
+	line-height:7vw;
+}
+
+
+
 
 .box_2_ok{
 	display		:inline-block;
