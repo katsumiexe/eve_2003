@@ -125,7 +125,7 @@
 	display			:inline-block;
 	color			:#fafafa;
 	font-size		:3vw;
-	background		:#a010ff;
+	color			:#9000a0;
 	font-weight		:600;
 	display			:inline-block;
 	border-radius	:0.5vw;
@@ -139,17 +139,17 @@
 	display			:inline-block;
 	height			:3.5vw;
 	line-height		:3.5vw;
-	color			:#a010ff;
+	color			:#9000a0;
 	font-size		:3vw;
 	margin			:0.5vw 0;
 }
 
 .room{
-	background		:#009010;
+	background		:#008000;
 }
 
 .room_a{
-	color		:#009010;
+	color		:#008000;
 }
 
 
