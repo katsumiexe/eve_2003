@@ -7,6 +7,12 @@
 	margin		:1vw auto;
 }
 
+.slide_box_ope_pack{
+	width		:90vw;
+	margin		:0;
+	padding		:0;
+	font-size	:0;
+}
 
 .slide_box{
 	display		:inline-block;
@@ -24,6 +30,7 @@
 }
 .slide_box_in{
 	display		:inline-flex;
+	width:900vw;
 	flex-wrap	:wrap;
 	position	:absolute;
 	height		:110vw;
