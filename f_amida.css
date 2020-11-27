@@ -25,7 +25,7 @@
 	width		:90vw;
 	height		:112vw;
 	overflow	:hidden;
-	background	:#eeeeee;
+	background	:#fafafa;
 	margin		:auto;
 }
 
@@ -46,7 +46,7 @@
 	width		:44vw;
 	height		:55vw;
 	margin		:0.5vw;
-	background	:#C6F2FF
+	background	:#c0e0ff;
 }
 
 .slide_box_img{
@@ -65,7 +65,7 @@
 	height			:16vw;
 	text-align		:left;
 	padding			:0.5vw;
-	background		:#C6F2FF;
+	background		:#c0e0ff;
 
 }
 
