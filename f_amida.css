@@ -2,8 +2,8 @@
 	display		:inline-block;
 	position	:relative;
 	width		:98vw;
-	height		:110vw;
-	background	:#eeeeee;
+	height		:112vw;
+	background	:#fafafa;
 	margin		:1vw auto;
 }
 
@@ -23,7 +23,7 @@
 	bottom		:0;
 
 	width		:90vw;
-	height		:110vw;
+	height		:112vw;
 	overflow	:hidden;
 	background	:#eeeeee;
 	margin		:auto;
@@ -33,7 +33,7 @@
 	width:900vw;
 	flex-wrap	:wrap;
 	position	:absolute;
-	height		:110vw;
+	height		:112vw;
 	top			:0;
 	left		:0;
 }
@@ -45,15 +45,15 @@
 	width		:44vw;
 	height		:55vw;
 	margin		:0.5vw;
-	background	:#ff0000;
+	background	:linear-gradient(135deg,#f0f0f0,#d8d8d8);
 }
 
 .slide_box_img{
 	position		:absolute;
 	top				:1vw;
-	left			:2vw;
-	width			:40vw;
-	height			:40vw;
+	left			:1vw;
+	width			:42vw;
+	height			:42vw;
 }
 
 .slide_box_prf{
@@ -62,7 +62,6 @@
 	left			:0vw;
 	width			:44vw;
 	height			:16vw;
-	background		:#fafafa;
 	text-align		:left;
 	padding			:0.5vw;
 }
