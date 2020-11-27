@@ -110,7 +110,7 @@
 	right			:1.5vw;
 	display			:inline-block;
 	font-size		:3vw;
-	
+	font-weigth:600;	
 }
 
 .slide_box_name{
@@ -125,7 +125,7 @@
 	display			:inline-block;
 	color			:#fafafa;
 	font-size		:3vw;
-	background		:#c030ff;
+	background		:#a010ff;
 	font-weight		:600;
 	display			:inline-block;
 	border-radius	:0.5vw;
@@ -139,17 +139,17 @@
 	display			:inline-block;
 	height			:3.5vw;
 	line-height		:3.5vw;
-	color			:#c030ff;
+	color			:#a010ff;
 	font-size		:3vw;
 	margin			:0.5vw;
 }
 
 .room{
-	background		:#30a040;
+	background		:#009010;
 }
 
 .room_a{
-	color		:#30a040;
+	color		:#009010;
 }
 
 
