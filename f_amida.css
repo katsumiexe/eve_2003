@@ -1,3 +1,13 @@
+
+.pre_img{
+	width:40vw;
+	height:40vw;
+	border:2vw solid #fafafa;
+	box-shadow:2px 2px 2px rgba(30,30,30,0.5);
+
+}
+
+
 .slide{
 	display		:inline-block;
 	position	:relative;
@@ -361,17 +371,11 @@
 
 .box_2_2{
 	display		:inline-block;
-	position	:absolute;
-	top			:42vw;
-	left		:0;
-	right		:0;
-	margin		:auto;
 	width		:86vw;
-	height		:36vw;
 	border		:0.5vw solid #f0f0f0;
-	padding		:1.5vw;
-	font-size	:3.2vw;
-	line-height	:4.2vw;
+	padding		:1vw;
+	font-size	:4vw;
+	line-height	:6vw;
 	background	:#fafafa;
 	text-align	:left;
 }
