@@ -348,23 +348,17 @@
 	display		:inline-block;
 	position	:relative;
 	width		:90vw;
-	height		:82vw;
 	border		:0.5vw solid #008000;
 	margin		:1vw auto;
 }	
 
 .box_2_1{
 	display		:inline-block;
-	position	:absolute;
-	top			:0;
-	left		:0;	
-	right		:0;	
-	margin		:auto;
-	width		:89.5vw;
+	width		:90vw;
 	height		:8vw;
 	line-height	:8vw;
-	background	:linear-gradient(#00e000,#008000);
-	font-size	:4.5vw;
+	background	:linear-gradient(#008000,#005000);
+	font-size	:4vw;
 	color		:#fafafa;
 	font-weight	:600;
 }
@@ -383,13 +377,9 @@
 
 .box_2_3{
 	display		:inline-block;
-	position	:absolute;
-	top			:11vw;
-	right		:1vw;
-	left		:1vw;
-	margin		:auto;
-	width		:28vw;
-	height		:28vw;
+	width		:88vw;
+	margin		:0 auto;
+	font-size:3.2vw;
 }
 
 .box_2_ok{
