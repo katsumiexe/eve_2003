@@ -348,11 +348,12 @@
 	width		:90vw;
 	border		:0.5vw solid #008000;
 	margin		:1vw auto;
+	background:#fafafa;
 }	
 
 .box_2_1{
 	display		:inline-block;
-	width		:90vw;
+	width		:89vw;
 	height		:8vw;
 	line-height	:8vw;
 	background	:linear-gradient(#008000,#005000);
@@ -389,7 +390,7 @@
 	padding-left:1vw;
 	font-size:3.5vw;
 	font-weight:700;
-	width:85vw;
+	width:82vw;
 	display		:inline-block;
 	height:7vw;
 	line-height:7vw;
