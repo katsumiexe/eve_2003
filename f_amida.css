@@ -379,7 +379,9 @@
 	display		:inline-block;
 	width		:88vw;
 	margin		:0 auto;
-	font-size:3.2vw;
+	font-size	:3.2vw;
+	text-align:left;
+	line-height:4.5vw;
 }
 
 .box_2_ok{
