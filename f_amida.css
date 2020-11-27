@@ -36,7 +36,7 @@
 	display		:inline-block;
 	flex-basis	:44vw;
 	width		:44vw;
-	height		:51vw;
+	height		:55vw;
 	margin		:0.5vw;
 	background	:#ff0000;
 }
@@ -51,7 +51,7 @@
 
 .slide_box_prf{
 	position		:absolute;
-	top				:38vw;
+	top				:39vw;
 	left			:0vw;
 	width			:44vw;
 	height			:16vw;
