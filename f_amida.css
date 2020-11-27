@@ -28,6 +28,7 @@
 	background	:#eeeeee;
 	margin		:auto;
 }
+
 .slide_box_in{
 	display		:inline-flex;
 	width:900vw;
@@ -45,7 +46,7 @@
 	width		:44vw;
 	height		:55vw;
 	margin		:0.5vw;
-	background	:linear-gradient(135deg,#f0f0f0,#d8d8d8);
+	background	:#f5deb3;
 }
 
 .slide_box_img{
@@ -64,6 +65,8 @@
 	height			:16vw;
 	text-align		:left;
 	padding			:0.5vw;
+	background		:#f5deb3;
+
 }
 
 .slide_box_l{
