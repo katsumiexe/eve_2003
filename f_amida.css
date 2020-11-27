@@ -117,19 +117,20 @@
 	color:#303030;
 	height			:5vw;
 	line-height		:5vw;
-	font-size		:3.5vw;
+	font-size		:3.8vw;
+	font-weight:600;
 }
 
 .prf3,.room{
 	display			:inline-block;
 	color			:#fafafa;
-	font-size		:2.5vw;
+	font-size		:3vw;
 	background		:#c030ff;
 	font-weight		:600;
 	display			:inline-block;
 	border-radius	:0.5vw;
-	height			:3.5vw;
-	line-height		:3.5vw;
+	height			:3.8vw;
+	line-height		:3.8vw;
 	padding			:0 0.5vw;
 	margin			:0.5vw;
 }
@@ -139,7 +140,7 @@
 	height			:3.5vw;
 	line-height		:3.5vw;
 	color			:#c030ff;
-	font-size		:2.5vw;
+	font-size		:3vw;
 	margin			:0.5vw;
 }
 
