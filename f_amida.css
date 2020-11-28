@@ -401,7 +401,7 @@
 
 .box_2_ok{
 	display		:inline-block;
-	margin		:auto;
+	margin		:1vw auto 2vw auto;
 	height		:12vw;
 	line-height	:12vw;
 	width		:90vw;
