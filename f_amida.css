@@ -116,7 +116,7 @@
 	padding			:3px;
 	border-radius	:3px;
 	position		:absolute;
-	top				:40vw;
+	top				:32vw;
 	right			:1.5vw;
 	display			:inline-block;
 	font-size		:3vw;
@@ -329,7 +329,7 @@
 .box_0_2{
 	display		:inline-block;
 	position	:absolute;
-	top			:32vw;
+	top			:42vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
@@ -349,7 +349,7 @@
 	width		:90vw;
 	border		:0.5vw solid #008000;
 	margin		:1vw auto;
-	background	:#fafafa;
+	background:#fafafa;
 }	
 
 .box_2_1{
