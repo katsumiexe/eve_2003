@@ -120,7 +120,8 @@
 	right			:1.5vw;
 	display			:inline-block;
 	font-size		:3vw;
-	font-weigth:600;	
+	font-weigth		:600;	
+	z-index			:10;
 }
 
 .slide_box_name{
